@@ -1,4 +1,4 @@
-# Solutions-Gate
+# Solutions Gate
 Content management system
 
 
